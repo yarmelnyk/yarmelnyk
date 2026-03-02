@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Yaroslav based in Ukraine, a freelance full-stack engineer with 7 years of experience in web apps, also AI integraion.
 <!--
 **yarmelnyk/yarmelnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
